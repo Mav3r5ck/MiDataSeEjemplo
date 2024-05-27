@@ -1,0 +1,7 @@
+Primeras filas del dataset:
+  Marca de tiempo  Uso de memoria (%)
+0        10:50:09                63.9
+1        10:50:10                63.9
+2        10:50:11                64.0
+3        10:50:12                63.8
+4        10:50:13                63.8
